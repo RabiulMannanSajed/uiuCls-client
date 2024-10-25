@@ -1,0 +1,20 @@
+.groupPostInput {
+  width: 100%;
+  background: rgb(78, 101, 133);
+  height: 50px;
+  padding: 10px;
+  margin-left: 20px;
+  border-radius: 20px;
+}
+/* .discussionCss {
+  background: rgb(37, 56, 82);
+} */
+.groupPostDetails {
+  position: absolute;
+  z-index: 1000;
+  margin-top: 20px;
+  border-radius: 10px;
+  background: rgb(72, 88, 110);
+  width: 50%;
+  padding: 20px;
+}

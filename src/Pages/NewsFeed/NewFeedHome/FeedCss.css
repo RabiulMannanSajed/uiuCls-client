@@ -1,0 +1,12 @@
+.contentUpdate {
+  max-height: 100vh;
+  overflow-y: auto;
+}
+.contentUpdate::-webkit-scrollbar {
+  display: none;
+}
+
+.contentUpdate {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

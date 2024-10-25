@@ -1,0 +1,7 @@
+.imgSize {
+  margin-top: 20px;
+  width: 200px;
+  height: 200px;
+  border: 5px solid rgb(168, 168, 168);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
