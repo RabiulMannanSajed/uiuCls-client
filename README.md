@@ -1,3 +1,3 @@
 # this is UIU Cls CLient
 
-chek all thing
+<a href="https://uiucls.netlify.app">live link</a>
